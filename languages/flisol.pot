@@ -1,0 +1,105 @@
+# Copyright (C) 2022 FLISoL São Bento do Sul
+# This file is distributed under the same license as the FLISoL plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: FLISoL 1.1.0-alpha\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flisol\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-25T02:09:24-03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: flisol\n"
+
+#. Plugin Name of the plugin
+msgid "FLISoL"
+msgstr ""
+
+#. Description of the plugin
+msgid "FLISoL plugin to certificates and other features."
+msgstr ""
+
+#. Author of the plugin
+msgid "FLISoL São Bento do Sul"
+msgstr ""
+
+#: includes/certificates/admin/class-flisol-certificates-admin-meta-boxes.php:19
+#: includes/certificates/class-flisol-certificates.php:79
+msgid "Certificates"
+msgstr ""
+
+#: includes/certificates/admin/class-flisol-certificates-admin-meta-boxes.php:163
+msgid "Certificate Front Page Background Image"
+msgstr ""
+
+#: includes/certificates/admin/class-flisol-certificates-admin-meta-boxes.php:213
+msgid "Messages"
+msgstr ""
+
+#: includes/certificates/admin/class-flisol-certificates-admin-meta-boxes.php:217
+#: includes/certificates/class-flisol-certificates.php:61
+msgid "Participation"
+msgstr ""
+
+#: includes/certificates/admin/class-flisol-certificates-admin-meta-boxes.php:236
+#: includes/certificates/class-flisol-certificates.php:62
+msgid "Speaker"
+msgstr ""
+
+#: includes/certificates/admin/class-flisol-certificates-admin-meta-boxes.php:255
+#: includes/certificates/class-flisol-certificates.php:63
+msgid "Organization"
+msgstr ""
+
+#: includes/certificates/admin/class-flisol-certificates-admin-meta-boxes.php:296
+msgid "Certificate Back Page Background Image"
+msgstr ""
+
+#: includes/certificates/class-flisol-certificates-ajax.php:42
+#: includes/certificates/class-flisol-certificates-pdf.php:20
+msgctxt "acf field"
+msgid "certificates"
+msgstr ""
+
+#: includes/certificates/class-flisol-certificates-ajax.php:52
+#: includes/certificates/class-flisol-certificates-pdf.php:23
+msgctxt "acf field"
+msgid "year"
+msgstr ""
+
+#: includes/certificates/class-flisol-certificates-ajax.php:53
+#: includes/certificates/class-flisol-certificates-pdf.php:24
+msgctxt "acf field"
+msgid "type"
+msgstr ""
+
+#: includes/certificates/class-flisol-certificates-ajax.php:54
+msgctxt "acf field"
+msgid "file"
+msgstr ""
+
+#: includes/certificates/class-flisol-certificates-ajax.php:63
+#: includes/certificates/class-flisol-certificates-pdf.php:36
+msgctxt "acf field"
+msgid "certificate"
+msgstr ""
+
+#: includes/certificates/class-flisol-certificates-pdf.php:82
+msgctxt "placeholder"
+msgid "name"
+msgstr ""
+
+#: includes/certificates/class-flisol-certificates.php:80
+msgid "Certificate"
+msgstr ""
+
+#: includes/certificates/class-flisol-certificates.php:99
+msgid "Certificate Templates"
+msgstr ""
+
+#: includes/certificates/class-flisol-certificates.php:100
+msgid "Certificate Template"
+msgstr ""

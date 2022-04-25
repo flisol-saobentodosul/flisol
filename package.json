@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@wordpress/scripts": "^22.5.0"
+  },
+  "scripts": {
+    "lintjs": "wp-scripts lint-js assets/js/frontend/flisol-certificates.js",
+    "lintjs-fix": "wp-scripts lint-js --fix assets/js/frontend/flisol-certificates.js"
+  }
+}
